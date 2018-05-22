@@ -45,6 +45,11 @@ This means that there is not only a level of software based security to help pre
 Reboot Games is mainly project work for clients. The client would come to us with an idea or a concept in the form of a pitch and we would review their pitch, ask questions and decide if it is in the scope of our abilities. Usually the companies or clients that come and pitch ideas want to turn their idea into a game, application or business software. We have previously done work for ZSL where they asked us to create an education application in the form of a game. The application that they wanted was to be for young children/teenagers. Another client which we have recently just had a pitch from is a driving school who want to redesign and redevelop their excisting application. Another client which we are close to hearing a pitch from is a disaster recovery team that would like to turn their paper based process into a software based process. At Reboot games we have many different members which specialise in different fields and have different abilities which allow us to match to most tasks that we undertake.
 
 ## Risks to reboot games:
+* Physical
+* Data
+* social Engineering
+
+###Different threats an organisation faces:
 #### Viruses:
 A computer virus is a form of malicious software that will modify other progrmas on a computer by inserting its own code into them. When this process is done the affect areas are said to be 'infected' with a computer virus. Within an organisation viruses are a constant risk to the computer systems. Viruses dont always have the intent of stealing data or information from a company. Sometimes viruses are used to cause damage to a companies systems or even to stop them from completing a task like trading. Viruses come in all shapes and sizes in todays technology so it is very important for companies to stay up to date with their security software.
 ## Security procedures:
