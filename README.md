@@ -16,20 +16,20 @@ As you can see from the image below it shows the way the hierarchy within the co
 
 ### Hardware/software used:
 Within reboot games, all workers work on the same spec pc with the exact same display and peripherals. The pc’s themselves consist of:
-•	Intel i7 7700k CPU
-•	Nvidia GTX 970 GPU
-•	Intel Motherboard
-•	1TB of internal storage as well as cloud storage provided by West Herts College.
-•	16GB of DDR3 Ram
+*	Intel i7 7700k CPU
+*	Nvidia GTX 970 GPU
+*	Intel Motherboard
+*	1TB of internal storage as well as cloud storage provided by West Herts College.
+*	16GB of DDR3 Ram
 For the tasks required by Reboot games, these pc’s are adequate and work perfectly for all of the workers needs. In comparison to some systems used by other companies, these systems provided are high-spec and work better than needed.
 
 Regarding the software used within reboot games. Each worker has their own preferred software to use for some tasks however I will name some of the more common software used by most if not all members:
-•	Windows 10(operating system)
-•	Google chrome
-•	Microsoft word
-•	Adobe photoshop
-•	Visual Studio
-•	Notepad and Notepad++
+*	Windows 10(operating system)
+*	Google chrome
+*	Microsoft word
+*	Adobe photoshop
+*	Visual Studio
+*	Notepad and Notepad++
 Some tasks require the use of multiple pieces of software to help us complete tasks however some simple tasks like documentation may only require Microsoft word. In regard to pricing for everything. The systems display and peripherals we use come to around £1400 per person or per system. The software we use we get for free due to be a part of West Herts College. The software would usually come to around £60 monthly or £680 annually.
 
 ### Nature of work
