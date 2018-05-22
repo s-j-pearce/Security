@@ -49,7 +49,7 @@ Reboot Games is mainly project work for clients. The client would come to us wit
 * Data
 * social Engineering
 
-###Different threats an organisation faces:
+### Different threats an organisation faces:
 #### Viruses:
 A computer virus is a form of malicious software that will modify other progrmas on a computer by inserting its own code into them. When this process is done the affect areas are said to be 'infected' with a computer virus. Within an organisation viruses are a constant risk to the computer systems. Viruses dont always have the intent of stealing data or information from a company. Sometimes viruses are used to cause damage to a companies systems or even to stop them from completing a task like trading. Viruses come in all shapes and sizes in todays technology so it is very important for companies to stay up to date with their security software.
 ## Security procedures:
