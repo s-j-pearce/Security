@@ -38,9 +38,11 @@ Some tasks require the use of multiple pieces of software to help us complete ta
 
 In regards to the security that we use whilst working. As we work within a college environment where the network is set up as a client-server all of our traffic and data goes through a central server which has a very strict firewall. Along side the tough firewall all the software and applications are kept up to date in order to maintain the latest level of protection possible. Another alternate to the systems we use could be the actual security within the college campus. There are security barriers which require us to have a valid ID on us at all times. On top of that, the room which we all work from within needs an ID card to gain access too. Only certain members of the college including ourselves have that access. 
 
-This means that there is not only a level of software based security to help prevent any attacks or attempts at gaining and information, there is also the physical security like the barriers and the locked rooms on top of the security guards at the main entrance.
+This means that there is not only a level of software based security to help prevent any attacks or attempts at gaining any information, there is also the physical security like the barriers and the locked rooms on top of the security guards at the main entrance.
 
 ### Nature of work
+
+Reboot Games is mainly project work for clients. The client would come to us with an idea or a concept in the form of a pitch and we would review their pitch, ask questions and decide if it is in the scope of our abilities. Usually the companies or clients that come and pitch ideas want to turn their idea into a game, application or business software. We have previously done work for ZSL where they asked us to create an education application in the form of a game. The application that they wanted was to be for young children/teenagers. Another client which we have recently just had a pitch from is a driving school who want to redesign and redevelop their excisting application. Another client which we are close to hearing a pitch from is a disaster recovery team that would like to turn their paper based process into a software based process. At Reboot games we have many different members which specialise in different fields and have different abilities which allow us to match to most tasks that we undertake.
 
 ## Risks to reboot games:
 #### Viruses:
