@@ -34,6 +34,10 @@ Regarding the software used within reboot games. Each worker has their own prefe
 
 Some tasks require the use of multiple pieces of software to help us complete tasks however some simple tasks like documentation may only require Microsoft word. In regard to pricing for everything. The systems display and peripherals we use come to around £1400 per person or per system. The software we use we get for free due to be a part of West Herts College. The software would usually come to around £60 monthly or £680 annually.
 
+In regards to the security that we use whilst working. As we work within a college environment where the network is set up as a client-server all of our traffic and data goes through a central server which has a very strict firewall. Along side the tough firewall all the software and applications are kept up to date in order to maintain the latest level of protection possible. Another alternate to the systems we use could be the actual security within the college campus. There are security barriers which require us to have a valid ID on us at all times. On top of that, the room which we all work from within needs an ID card to gain access too. Only certain members of the college including ourselves have that access. 
+
+This means that there is not only a level of software based security to help prevent any attacks or attempts at gaining and information, there is also the physical security like the barriers and the locked rooms on top of the security guards at the main entrance.
+
 ### Nature of work
 
 ## Risks to reboot games:
