@@ -93,10 +93,10 @@ If a firewall is incorrectly set up, then it means that data that is not intende
 
 | Risk | Explanation | Danger | How To Prevent The Risk  |
 | ---- | -----------  | ------------------ | -------- |
-| Internal leaks | Information About The Company Leaked From Within | Medium | Find Out Who Is The Leak
-| Power Cut | All Power To The Building Goes Out| Medium | Save Back Ups 24/7, Transfer Back Ups To Servers |
-| Theft | Someone Breaking In And Stealing Equipment | High | Making Sure All Doors Are Locked And Alarms Are Set |
-| Viruses | The PCs Get Malicious Software| High | Making Sure All Anti-Virus Software Is Updated |
+| Internal leaks | Information About The Company Leaked From Within | Low | Find Out Who Is The Leak
+| Power Cut | All Power To The Building Goes Out| Medium | Save Back Ups 24/7, Transfer to back ups servers, switch to back up generators. |
+| Theft | Someone Breaking In And Stealing Equipment | High | Making Sure All Doors Are Locked And Alarms Are Set, ensure security guards are always stationed at entrances. |
+| Viruses | The PCs Get Malicious Software| High | Making Sure All Anti-Virus Software Is Updated, Ensure firewall is properly configured. |
 
 ### Disaster Recovery Plan
 Usually all companies these days have recovery plans in place in the event of a disaster. The reason for this is so that if a business is hit by a disaster or a major problem, they would have a plan in place for every possible situation to ensure the damage to the business is minimal. These plans help businesses manage during these times when they may get hit so that no long term damage is done. There are different steps to help make sure that this process of recovery is quick and successful.
